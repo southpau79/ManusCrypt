@@ -1,0 +1,2 @@
+# ManusCrypt
+Anthropocentric Information Security
